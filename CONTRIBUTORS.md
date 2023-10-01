@@ -8,3 +8,9 @@
 - Place: Maharashtra, INDIA
 - Bio: I'm a Computer Engineering student and currently learning Mern stack.
 - GitHub: [prashantjagtap2909](https://github.com/prashantjagtap2909)
+
+
+#### Name: [Rahul Kumar](https://github.com/rahullkumr)
+- Place: Jharkhand, INDIA
+- Bio: I'm a MCA student and currently learning Flutter.
+- GitHub: [rahullkumr](https://github.com/rahullkumr)
