@@ -8,3 +8,9 @@
 - Place: Maharashtra, INDIA
 - Bio: I'm a Computer Engineering student and currently learning Mern stack.
 - GitHub: [prashantjagtap2909](https://github.com/prashantjagtap2909)
+
+
+#### Name: [Raz Jacson](https://github.com/raz)
+- Place: WestBengal, INDIA
+- Bio: I'm a Computer Engineering student and currently learning Machine Learning.
+- GitHub: [prashantjagtap2909](https://github.com/raz)
