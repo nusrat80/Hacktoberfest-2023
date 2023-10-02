@@ -19,5 +19,5 @@
 #### Name: [Ritik Shrestha](https://github.com/shresritik)
 
 - Place: Kathmandu, NEPAL
-- Bio: I'm a ELectronics Engineering student and currently learning Full Stack Sftware Development.
+- Bio: I'm a Electronics Engineering student and currently learning Full Stack Sftware Development.
 - GitHub: [shresritik](https://github.com/shresritik)
