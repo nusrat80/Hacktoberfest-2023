@@ -20,3 +20,9 @@
 - Location: Pune, Maharashtra, India
 - Bio: I'm an Artificial Intelligence and Data Science Student currently trying to transition from quantum physics to coding.
 - GitHub: [LordZeusIsBack](https://github.com/LordZeusIsBack)
+
+
+#### Name: [Darshit Dudhaiya](https://github.com/darshitdudhaiya)
+- Location: Jamnagar, Gujarat, India
+- Bio: 👨‍💻 Coding, Developing, Learning – Student of the Digital World 🌟
+- GitHub: [darshitdudhaiya](https://github.com/darshitdudhaiya)
