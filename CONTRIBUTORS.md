@@ -20,3 +20,10 @@
 - Location: Pune, Maharashtra, India
 - Bio: I'm an Artificial Intelligence and Data Science Student currently trying to transition from quantum physics to coding.
 - GitHub: [LordZeusIsBack](https://github.com/LordZeusIsBack)
+
+
+
+#### Name: [Sayantan Chakrabarty](https://github.com/Sayantan-tech-code/fakenewsdetection)
+- Location: Kolkata , WestBengal, India
+- Bio: I am a Associate Software enginner traine. I love C++, Java.
+- GitHub: [Sayantan-tech-code](https://github.com/Sayantan-tech-code/fakenewsdetection)
