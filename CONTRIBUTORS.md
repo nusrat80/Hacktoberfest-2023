@@ -14,3 +14,9 @@
 - Place: WestBengal, INDIA
 - Bio: I'm a Computer Engineering student and currently learning Machine Learning.
 - GitHub: [prashantjagtap2909](https://github.com/raz)
+
+
+#### Name: [Anubhav Sharma](https://github.com/LordZeusIsBack)
+- Location: Pune, Maharashtra, India
+- Bio: I'm an Artificial Intelligence and Data Science Student currently trying to transition from quantum physics to coding.
+- GitHub: [LordZeusIsBack](https://github.com/LordZeusIsBack)
