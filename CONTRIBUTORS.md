@@ -14,3 +14,7 @@
 - Place: WestBengal, INDIA
 - Bio: I'm a Computer Engineering student and currently learning Machine Learning.
 - GitHub: [prashantjagtap2909](https://github.com/raz)
+#### Name: [Mukul Rana](https://github.com/mukulpythondev)
+- Place: Uttar Pradesh , INDIA
+- Bio: Frontend Developer
+- GitHub: [Mukul Rana](https://github.com/mukulpythondev)
