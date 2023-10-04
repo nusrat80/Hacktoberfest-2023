@@ -20,3 +20,13 @@
 - Location: Pune, Maharashtra, India
 - Bio: I'm an Artificial Intelligence and Data Science Student currently trying to transition from quantum physics to coding.
 - GitHub: [LordZeusIsBack](https://github.com/LordZeusIsBack)
+
+
+### Name: [Md Faiz Alam](https://github.com/mdfaizalam555)
+- place: WestBengal, INDIA
+- Bio: I'm a Computer Engineering student and currently learing Java, Python & DSA.
+- GitHub: [mdfaizalam55](github.com/mdfaizalam555)
+
+
+
+
