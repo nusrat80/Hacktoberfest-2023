@@ -1,4 +1,4 @@
-# 🚀 Hacktoberfest 2023: Open Source Contribution Opportunity
+# 🚀 Hacktoberfest 2023 : Open Source Contribution Opportunity
 
 Welcome to Hacktoberfest 2023! We invite you to embark on a journey into the world of open source development. Whether you're new to GitHub or an experienced contributor, this is your chance to make a meaningful impact on the open source community. Join us in celebrating [Hacktoberfest](https://hacktoberfest.com/) by participating in this exciting project.
 
