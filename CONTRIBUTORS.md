@@ -26,3 +26,9 @@
 - Location: Bogor, West Java, Indonesia
 - Bio: I'm a fulltime QA Engineer and Software Developer with JavaScript
 - GitHub: [LordZeusIsBack](https://github.com/rizkypur)
+
+
+#### Name: [Rohan Raj](https://github.com/rrhan32)
+- Location: LUCKNOW , INDIA
+- Bio: I am a full stack developer currently pursuing bachelors degree . I am interested in exploring backend techniques and various auth techniques  .
+- GitHub: [rrhan32](https://github.com/rrhan32)
