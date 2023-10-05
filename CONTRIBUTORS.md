@@ -20,3 +20,9 @@
 - Location: Pune, Maharashtra, India
 - Bio: I'm an Artificial Intelligence and Data Science Student currently trying to transition from quantum physics to coding.
 - GitHub: [LordZeusIsBack](https://github.com/LordZeusIsBack)
+
+
+#### Name: [Rizky Purba Dharmawan](https://github.com/rizkypur)
+- Location: Bogor, West Java, Indonesia
+- Bio: I'm a fulltime QA Engineer and Software Developer with JavaScript
+- GitHub: [LordZeusIsBack](https://github.com/rizkypur)
