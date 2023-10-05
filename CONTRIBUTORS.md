@@ -26,3 +26,8 @@
 - Location: Bogor, West Java, Indonesia
 - Bio: I'm a fulltime QA Engineer and Software Developer with JavaScript
 - GitHub: [LordZeusIsBack](https://github.com/rizkypur)
+
+#### Name: [YOUR NAME](GitHub link)
+- Location: Jamshedpur, Jharkhand, India
+- Bio: MERN Developer and pursuing CSE from TMSL, Kolkata
+- GitHub: [geeky-hypertext629](https://github.com/geeky-hypertext629)
