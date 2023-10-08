@@ -21,6 +21,11 @@
 - Bio: I'm an Artificial Intelligence and Data Science Student currently trying to transition from quantum physics to coding.
 - GitHub: [LordZeusIsBack](https://github.com/LordZeusIsBack)
 
+#### Name: [Trishan Wagle](https://github.com/trishan9)
+- Location: Kathmandu, Bagmati, Nepal
+- Bio: Full Stack Developer
+- GitHub: [trishan9](https://github.com/trishan9)
+
 
 #### Name: [Rizky Purba Dharmawan](https://github.com/rizkypur)
 - Location: Bogor, West Java, Indonesia
